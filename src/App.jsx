@@ -1,6 +1,6 @@
 import React from "react";
 import './Projects/Todo/todo.css'
-import Todo from "./Projects/Todo/todo";
+import Todo from "./Projects/Todo/Todo";
 const App = () => {
   return (
     <div>
